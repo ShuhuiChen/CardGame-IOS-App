@@ -7,8 +7,8 @@ When user clicks the "Deal" button, random cards will be hand out to the player 
 
 player score & CPU score will change conresponding to the cards values user and NPC get.
 
-user get one points if user's card if greater than NPC's card
-NPC get one points if NPC's card if greater than user's card
+user get one points if user's card if greater than NPC's card.
+NPC get one points if NPC's card if greater than user's card.
 
 ![image](https://user-images.githubusercontent.com/36015822/114865230-8a39ff00-9e24-11eb-8b40-49a6203c095c.png)
 
